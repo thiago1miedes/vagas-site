@@ -1,0 +1,27 @@
+{
+  "id": "desenvolvedor-java-kotlin-pleno-cogna",
+  "title": "Pessoa Desenvolvedora Java/Kotlin Pleno, Remota",
+  "slug": "desenvolvedor-java-kotlin-pleno-cogna",
+  "company": "Cogna Educação",
+  "category": "backend",
+  "description": "Vaga pleno em Java/Kotlin, CLT e remota, em uma das maiores empresas de educação do país (Cogna). Candidatura direta via Gupy. Salário não divulgado.",
+  "responsibilities": [
+    "Desenvolver e manter serviços back-end em Java e Kotlin",
+    "Integrar APIs e sistemas internos",
+    "Participar de revisões de código e definições técnicas do time"
+  ],
+  "requirements": [
+    "Experiência pleno com Java e/ou Kotlin",
+    "APIs REST e bancos de dados relacionais",
+    "Boas práticas de testes e versionamento"
+  ],
+  "differentials": [],
+  "employmentType": "CLT",
+  "workModel": "Remoto",
+  "seniority": "Pleno",
+  "location": "Brasil (Remoto)",
+  "salary": null,
+  "applicationUrl": "https://cogna.gupy.io/job/eyJqb2JJZCI6MTE4MjQ0NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+  "publishedAt": "2026-08-30",
+  "expiresAt": null
+}

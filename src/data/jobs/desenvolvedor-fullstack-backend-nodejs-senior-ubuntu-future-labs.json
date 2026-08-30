@@ -1,0 +1,25 @@
+{
+  "id": "desenvolvedor-fullstack-backend-nodejs-senior-ubuntu-future-labs",
+  "title": "Desenvolvedor(a) FullStack ou Backend Node.js — Sênior",
+  "slug": "desenvolvedor-fullstack-backend-nodejs-senior-ubuntu-future-labs",
+  "company": "Ubuntu Future Labs",
+  "category": "backend",
+  "description": "Vaga remota PJ para desenvolvedor(a) full stack ou back-end sênior com Node.js, TypeScript, PostgreSQL, Redis e Docker.",
+  "responsibilities": [
+    "Desenvolver APIs e serviços em Node.js",
+    "Manter infraestrutura com PostgreSQL, Redis e Docker"
+  ],
+  "requirements": [
+    "Experiência sênior com Node.js e TypeScript",
+    "Experiência com PostgreSQL, Redis e Docker"
+  ],
+  "differentials": [],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Sênior",
+  "location": "Brasil",
+  "salary": null,
+  "applicationUrl": "https://programathor.com.br/jobs/33725-desenvolvedor-a-fullstack-ou-backend-node-js-senior",
+  "publishedAt": "2026-08-26",
+  "expiresAt": null
+}

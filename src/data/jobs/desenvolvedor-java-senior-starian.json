@@ -1,0 +1,27 @@
+{
+  "id": "desenvolvedor-java-senior-starian",
+  "title": "Pessoa Desenvolvedora Java Sr",
+  "slug": "desenvolvedor-java-senior-starian",
+  "company": "Starian",
+  "category": "backend",
+  "description": "Vaga sênior CLT, 100% remota nacional, focada em Java, na mesma empresa e com o mesmo pacote de benefícios da vaga Java/React Pleno. Candidatura simples via Gupy.",
+  "responsibilities": [
+    "Projetar, desenvolver e manter serviços back-end em Java com Spring",
+    "Definir padrões técnicos e apoiar decisões de arquitetura",
+    "Garantir qualidade, testes e observabilidade das aplicações"
+  ],
+  "requirements": [
+    "Experiência sênior com Java e Spring",
+    "APIs REST e bancos de dados relacionais",
+    "Boas práticas de testes e versionamento"
+  ],
+  "differentials": [],
+  "employmentType": "CLT",
+  "workModel": "Remoto",
+  "seniority": "Sênior",
+  "location": "Brasil (100% Remoto)",
+  "salary": null,
+  "applicationUrl": "https://starian.gupy.io/job/eyJqb2JJZCI6MTE3MTU0MzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+  "publishedAt": "2026-08-30",
+  "expiresAt": null
+}

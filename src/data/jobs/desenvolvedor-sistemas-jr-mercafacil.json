@@ -1,0 +1,28 @@
+{
+  "id": "168",
+  "title": "Desenvolvedor(a) de Sistemas Jr",
+  "slug": "desenvolvedor-sistemas-jr-mercafacil",
+  "company": "Mercafacil",
+  "category": "backend",
+  "description": "A Mercafacil busca um(a) Desenvolvedor(a) de Sistemas júnior, 100% remoto, para atuar com Python/Django no back-end e Node/NestJS. Boa porta de entrada para quem está começando na carreira.",
+  "responsibilities": [
+    "Desenvolver e manter funcionalidades em Python/Django",
+    "Trabalhar com APIs em Node/NestJS",
+    "Colaborar com o time de engenharia em code review"
+  ],
+  "requirements": [
+    "Conhecimento em Python e Django",
+    "Noções de Node.js"
+  ],
+  "differentials": [
+    "Experiência com NestJS"
+  ],
+  "employmentType": "CLT",
+  "workModel": "Remoto",
+  "seniority": "Júnior",
+  "location": "Brasil",
+  "salary": null,
+  "applicationUrl": "https://mercafacil.gupy.io/jobs/10417139",
+  "publishedAt": "2026-08-24",
+  "expiresAt": null
+}

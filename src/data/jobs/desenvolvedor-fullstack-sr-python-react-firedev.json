@@ -1,0 +1,29 @@
+{
+  "id": "113",
+  "title": "Desenvolvedor FullStack Sr | Python e React",
+  "slug": "desenvolvedor-fullstack-sr-python-react-firedev",
+  "company": "Firedev",
+  "category": "fullstack",
+  "description": "A Firedev busca um Desenvolvedor FullStack sênior remoto no Brasil, com stack moderna: JS/TS, Node, React, Python e React Native. Papel com autonomia técnica. Contratação, salário e jornada não foram divulgados na página da vaga.",
+  "responsibilities": [
+    "Desenvolver funcionalidades full stack com React e Node",
+    "Trabalhar com Python e React Native",
+    "Atuar com autonomia técnica nas decisões do produto"
+  ],
+  "requirements": [
+    "Experiência sênior com JavaScript/TypeScript",
+    "Domínio de React e Node.js",
+    "Conhecimento de Python"
+  ],
+  "differentials": [
+    "React Native"
+  ],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Sênior",
+  "location": "Brasil",
+  "salary": null,
+  "applicationUrl": "https://firedev.gupy.io/jobs/11575383",
+  "publishedAt": "2026-08-21",
+  "expiresAt": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "284",
+  "title": "Desenvolvedor para Publicar App Web em React (Freelance)",
+  "slug": "publicar-app-web-react-freelance-workana",
+  "company": "Cliente via Workana",
+  "category": "frontend",
+  "description": "Projeto freelance pequeno e rápido: publicar na Vercel um app web já desenvolvido em React, configurar domínio, proteger a chave de API (Claude/Anthropic) e integrar com o Google Sheets. Prazo esperado de 7 dias, pagamento 50%/50%. Ainda em fase de avaliação de propostas.",
+  "responsibilities": [
+    "Publicar o app React já pronto na Vercel",
+    "Configurar o domínio personalizado",
+    "Proteger a chave de API da Anthropic no back-end",
+    "Integrar o app com o Google Sheets"
+  ],
+  "requirements": [
+    "Experiência com deploy de aplicações React na Vercel",
+    "Conhecimento de variáveis de ambiente e proteção de chaves de API",
+    "Familiaridade com a API do Google Sheets"
+  ],
+  "differentials": [
+    "Experiência com a API da Anthropic (Claude)"
+  ],
+  "employmentType": "Freelancer",
+  "workModel": "Remoto",
+  "seniority": "Pleno",
+  "location": "Remoto (freelance)",
+  "salary": "A combinar (proposta do freelancer)",
+  "applicationUrl": "https://www.workana.com/job/desenvolvedor-para-publicar-um-app-web-ja-desenvolvido-em-react",
+  "publishedAt": "2026-08-29",
+  "expiresAt": null
+}

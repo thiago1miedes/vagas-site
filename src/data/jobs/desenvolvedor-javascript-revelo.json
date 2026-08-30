@@ -1,0 +1,26 @@
+{
+  "id": "063",
+  "title": "Desenvolvedor JavaScript",
+  "slug": "desenvolvedor-javascript-revelo",
+  "company": "Revelo (empresa parceira)",
+  "category": "frontend",
+  "description": "Vaga de desenvolvedor JavaScript divulgada pela Revelo, que conecta candidatos a várias empresas parceiras com processo padronizado. Atenção: o link é a página geral da plataforma, não o anúncio específico, e a senioridade não foi informada.",
+  "responsibilities": [
+    "Desenvolver aplicações em JavaScript",
+    "Participar do processo seletivo padronizado da plataforma"
+  ],
+  "requirements": [
+    "Experiência com JavaScript"
+  ],
+  "differentials": [
+    "Inglês"
+  ],
+  "employmentType": "CLT",
+  "workModel": "Remoto",
+  "seniority": "Pleno",
+  "location": "São Paulo, SP (remoto)",
+  "salary": "A partir de R$ 9.000 (CLT ou PJ)",
+  "applicationUrl": "https://app.careers.revelo.com/",
+  "publishedAt": "2026-08-19",
+  "expiresAt": null
+}

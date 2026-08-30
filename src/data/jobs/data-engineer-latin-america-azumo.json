@@ -1,0 +1,29 @@
+{
+  "id": "283",
+  "title": "Data Engineer - Latin America",
+  "slug": "data-engineer-latin-america-azumo",
+  "company": "Azumo",
+  "category": "backend",
+  "description": "Empresa americana contrata Data Engineer sênior (5+ anos) para atuação remota na América Latina, com remuneração em dólar. Stack com Spark, Kafka e Snowflake. Prazo de candidatura até 03/09/2026 e exige inglês avançado (B2/C1).",
+  "responsibilities": [
+    "Construir e manter pipelines de dados em larga escala",
+    "Trabalhar com Spark, Kafka e Snowflake",
+    "Garantir qualidade, governança e disponibilidade dos dados"
+  ],
+  "requirements": [
+    "5+ anos de experiência como Data Engineer",
+    "Domínio de Spark, Kafka e Snowflake",
+    "Inglês avançado (B2/C1)"
+  ],
+  "differentials": [
+    "Experiência com infraestrutura em nuvem"
+  ],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Sênior",
+  "location": "América Latina (remoto)",
+  "salary": "Remuneração em dólar (não informada)",
+  "applicationUrl": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america",
+  "publishedAt": "2026-08-29",
+  "expiresAt": "2026-09-03"
+}

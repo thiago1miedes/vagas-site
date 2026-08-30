@@ -1,0 +1,28 @@
+{
+  "id": "077",
+  "title": "DevOps Engineer (Python)",
+  "slug": "devops-engineer-python-toptal",
+  "company": "Toptal",
+  "category": "devops-sre",
+  "description": "A Toptal busca um DevOps Engineer com Python para Brasil e LATAM, remoto. Exige domínio avançado de AWS, Terraform e Kubernetes.",
+  "responsibilities": [
+    "Gerenciar infraestrutura em nuvem com AWS",
+    "Automatizar provisionamento com Terraform",
+    "Operar clusters Kubernetes"
+  ],
+  "requirements": [
+    "Experiência avançada com AWS",
+    "Domínio de Terraform",
+    "Experiência com Kubernetes",
+    "Conhecimento de Python"
+  ],
+  "differentials": [],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Sênior",
+  "location": "Brasil e LATAM",
+  "salary": null,
+  "applicationUrl": "https://weworkremotely.com/remote-jobs/toptal-devops-engineer-python",
+  "publishedAt": "2026-08-20",
+  "expiresAt": null
+}

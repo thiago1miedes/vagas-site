@@ -1,0 +1,25 @@
+{
+  "id": "068",
+  "title": "Desenvolvedor(a) de Automação JavaScript Pleno",
+  "slug": "automacao-javascript-pleno-taya",
+  "company": "Taya",
+  "category": "qa-testes",
+  "description": "Vaga de automação em JavaScript na Taya, remota e PJ, com horário flexível. O escopo é bem específico: scraping e automação de sites com Puppeteer e Playwright. A data de publicação não foi informada.",
+  "responsibilities": [
+    "Desenvolver automações com Puppeteer e Playwright",
+    "Construir rotinas de scraping de sites"
+  ],
+  "requirements": [
+    "Experiência com JavaScript",
+    "Vivência com Puppeteer ou Playwright"
+  ],
+  "differentials": [],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Pleno",
+  "location": "Brasil",
+  "salary": "Até R$ 12.000",
+  "applicationUrl": "https://programathor.com.br/jobs/29731-desenvolvedor-a-de-automacao-javascript-pleno",
+  "publishedAt": "2026-08-19",
+  "expiresAt": null
+}

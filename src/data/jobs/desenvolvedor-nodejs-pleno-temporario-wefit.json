@@ -1,0 +1,29 @@
+{
+  "id": "275",
+  "title": "Desenvolvedor(a) Node.js Pleno Temporário",
+  "slug": "desenvolvedor-nodejs-pleno-temporario-wefit",
+  "company": "WeFit",
+  "category": "backend",
+  "description": "Contrato temporário de 4 meses, com chance de efetivação, para desenvolvedor(a) Node.js Pleno. Remoto para quem é de fora de São Paulo, híbrido para quem mora na cidade. Aceita PJ ou CLT.",
+  "responsibilities": [
+    "Desenvolver e manter serviços em Node.js e TypeScript",
+    "Modelar e consultar bases SQL",
+    "Participar das revisões de código e do ciclo de entregas do time"
+  ],
+  "requirements": [
+    "Experiência com Node.js e TypeScript",
+    "Conhecimento de SQL",
+    "Disponibilidade para contrato temporário de 4 meses"
+  ],
+  "differentials": [
+    "Experiência prévia em contratos com efetivação"
+  ],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Pleno",
+  "location": "Brasil (remoto; híbrido em São Paulo)",
+  "salary": "Até R$ 8.000",
+  "applicationUrl": "https://programathor.com.br/jobs/33471-desenvolvedor-a-node-js-pleno-temporario",
+  "publishedAt": "2026-08-29",
+  "expiresAt": null
+}

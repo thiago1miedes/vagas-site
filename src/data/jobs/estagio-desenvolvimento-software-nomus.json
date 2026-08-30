@@ -1,0 +1,29 @@
+{
+  "id": "279",
+  "title": "Estágio em Desenvolvimento de Software",
+  "slug": "estagio-desenvolvimento-software-nomus",
+  "company": "Nomus",
+  "category": "backend",
+  "description": "Estágio na Nomus com trilha clara de efetivação como desenvolvedor, trabalhando com Java, JavaScript, Spring e Hibernate. Remoto permanente para quem mora fora do Rio de Janeiro, com bolsa divulgada e plano de carreira definido.",
+  "responsibilities": [
+    "Apoiar o desenvolvimento de funcionalidades em Java com Spring e Hibernate",
+    "Trabalhar com JavaScript no front-end do sistema",
+    "Participar do processo de testes e correções"
+  ],
+  "requirements": [
+    "Cursando ensino superior em TI ou áreas correlatas",
+    "Conhecimento de lógica de programação e orientação a objetos",
+    "Interesse em back-end Java"
+  ],
+  "differentials": [
+    "Contato prévio com Spring ou Hibernate"
+  ],
+  "employmentType": "Estágio",
+  "workModel": "Remoto",
+  "seniority": "Estágio",
+  "location": "Brasil (remoto para quem mora fora do Rio de Janeiro)",
+  "salary": "Bolsa de R$ 1.800 a R$ 3.600",
+  "applicationUrl": "https://nomus.gupy.io/jobs/11585193?jobBoardSource=gupy_public_page",
+  "publishedAt": "2026-08-29",
+  "expiresAt": null
+}

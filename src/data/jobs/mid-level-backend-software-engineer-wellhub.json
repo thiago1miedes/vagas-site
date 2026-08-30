@@ -1,0 +1,29 @@
+{
+  "id": "282",
+  "title": "Mid-Level Backend Software Engineer",
+  "slug": "mid-level-backend-software-engineer-wellhub",
+  "company": "Wellhub",
+  "category": "backend",
+  "description": "A Wellhub (ex-Gympass) contrata engenheiro(a) back-end pleno para o time de Payments, trabalhando com Java/Kotlin e Spring ou Golang. Remoto, restrito a candidatos no Brasil, com pacote de benefícios amplo.",
+  "responsibilities": [
+    "Desenvolver e manter serviços do time de Payments",
+    "Trabalhar com Java/Kotlin e Spring ou Golang",
+    "Garantir confiabilidade e escalabilidade dos serviços"
+  ],
+  "requirements": [
+    "Experiência com back-end em Java/Kotlin e Spring ou em Golang",
+    "Conhecimento de sistemas distribuídos e APIs",
+    "Inglês para trabalhar em time global"
+  ],
+  "differentials": [
+    "Experiência com sistemas de pagamento"
+  ],
+  "employmentType": "CLT",
+  "workModel": "Remoto",
+  "seniority": "Pleno",
+  "location": "Brasil (remoto)",
+  "salary": null,
+  "applicationUrl": "https://remotive.com/remote/jobs/software-development/mid-level-backend-software-engineer-3780435",
+  "publishedAt": "2026-08-29",
+  "expiresAt": null
+}

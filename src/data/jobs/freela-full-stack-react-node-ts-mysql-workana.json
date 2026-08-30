@@ -1,0 +1,26 @@
+{
+  "id": "086",
+  "title": "Full Stack (React, Node.js, TypeScript, MySQL)",
+  "slug": "freela-full-stack-react-node-ts-mysql-workana",
+  "company": "Cliente particular via Workana",
+  "category": "fullstack",
+  "description": "Projeto freelance na Workana para desenvolvimento full stack de longo prazo com React, Node.js, TypeScript e MySQL. O anúncio pede 4 anos ou mais de experiência comprovada; orçamento e prazo não foram especificados.",
+  "responsibilities": [
+    "Desenvolver funcionalidades front-end em React",
+    "Desenvolver a API em Node.js com TypeScript",
+    "Modelar e manter o banco de dados MySQL"
+  ],
+  "requirements": [
+    "Quatro anos ou mais de experiência comprovada",
+    "Domínio de React, Node.js, TypeScript e MySQL"
+  ],
+  "differentials": [],
+  "employmentType": "Freelancer",
+  "workModel": "Remoto",
+  "seniority": "Pleno",
+  "location": "Brasil",
+  "salary": null,
+  "applicationUrl": "https://www.workana.com/pt/job/desarrollador-full-stack-con-react-node-js-typescript-y-mysql-para-proyecto-a-largo-plazo",
+  "publishedAt": "2026-08-20",
+  "expiresAt": null
+}

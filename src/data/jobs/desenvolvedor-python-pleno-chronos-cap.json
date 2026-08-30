@@ -1,0 +1,30 @@
+{
+  "id": "250",
+  "title": "Desenvolvedor(a) Python Pleno",
+  "slug": "desenvolvedor-python-pleno-chronos-cap",
+  "company": "Chronos Cap",
+  "category": "backend",
+  "description": "Startup de agentes de IA para WhatsApp busca desenvolvedor(a) Python pleno para atuar com FastAPI, APIs e integrações. Trabalho remoto com horário flexível.",
+  "responsibilities": [
+    "Desenvolver e manter APIs em Python com FastAPI",
+    "Construir integrações com serviços externos e a plataforma WhatsApp",
+    "Colaborar na evolução dos agentes de IA do produto"
+  ],
+  "requirements": [
+    "Experiência com Python e FastAPI",
+    "Vivência com desenvolvimento e consumo de APIs REST",
+    "Conhecimento em bancos de dados"
+  ],
+  "differentials": [
+    "Experiência com LLMs e agentes de IA",
+    "Familiaridade com filas e mensageria"
+  ],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Pleno",
+  "location": "Brasil",
+  "salary": "R$ 8.000 - R$ 12.000",
+  "applicationUrl": "https://programathor.com.br/jobs/31746-desenvolvedor-a-python-pleno",
+  "publishedAt": "2026-08-28",
+  "expiresAt": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "desenvolvedor-java-react-pleno-starian",
+  "title": "Pessoa Desenvolvedora Java/React Pleno",
+  "slug": "desenvolvedor-java-react-pleno-starian",
+  "company": "Starian",
+  "category": "fullstack",
+  "description": "Vaga pleno CLT, 100% remota nacional, em Java 11+/Spring e React.js. Boa lista de benefícios (VA/VR, plano de saúde, PLR) e processo padronizado via Gupy.",
+  "responsibilities": [
+    "Desenvolver e manter aplicações back-end em Java 11+ com Spring",
+    "Construir interfaces em React.js",
+    "Integrar serviços e APIs REST"
+  ],
+  "requirements": [
+    "Experiência pleno com Java 11+ e Spring",
+    "Experiência com React.js",
+    "Consumo e construção de APIs REST"
+  ],
+  "differentials": [],
+  "employmentType": "CLT",
+  "workModel": "Remoto",
+  "seniority": "Pleno",
+  "location": "Brasil (100% Remoto)",
+  "salary": null,
+  "applicationUrl": "https://starian.gupy.io/job/eyJqb2JJZCI6MTIwMzc3NTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+  "publishedAt": "2026-08-30",
+  "expiresAt": "2026-10-10"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "engenheiro-ia-generativa-senior-orbite",
+  "title": "Engenheiro(a) de IA Generativa — Sênior",
+  "slug": "engenheiro-ia-generativa-senior-orbite",
+  "company": "Orbite Consulting",
+  "category": "backend",
+  "description": "Vaga remota para Engenheiro(a) de IA Generativa sênior, com stack em Python, Docker e frameworks de LLM. Contratação CLT ou PJ conforme perfil — confirmar antes de aplicar.",
+  "responsibilities": [
+    "Desenvolver soluções de IA generativa em produção",
+    "Integrar LLMs via LangChain/LlamaIndex e OpenAI API"
+  ],
+  "requirements": [
+    "Experiência sênior com Python e Docker",
+    "Experiência com LangChain, LlamaIndex ou OpenAI API"
+  ],
+  "differentials": [],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Sênior",
+  "location": "Brasil",
+  "salary": null,
+  "applicationUrl": "https://programathor.com.br/jobs/33742-engenheiro-a-de-ia-generativa-senior",
+  "publishedAt": "2026-08-26",
+  "expiresAt": null
+}

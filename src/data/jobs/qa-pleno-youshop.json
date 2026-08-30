@@ -1,0 +1,30 @@
+{
+  "id": "251",
+  "title": "QA Pleno",
+  "slug": "qa-pleno-youshop",
+  "company": "Youshop",
+  "category": "qa-testes",
+  "description": "Startup de meios de pagamento busca QA pleno para testes funcionais, documentação e monitoramento de bugs. Vaga 100% remota com horário flexível.",
+  "responsibilities": [
+    "Planejar e executar testes funcionais",
+    "Documentar casos de teste e evidências",
+    "Monitorar e reportar bugs, acompanhando as correções"
+  ],
+  "requirements": [
+    "Experiência com testes funcionais e documentação de QA",
+    "Conhecimento em ferramentas de gestão de bugs",
+    "Boa comunicação com times de produto e engenharia"
+  ],
+  "differentials": [
+    "Experiência no setor de meios de pagamento",
+    "Noções de automação de testes"
+  ],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Pleno",
+  "location": "Brasil",
+  "salary": "Até R$ 7.000",
+  "applicationUrl": "https://programathor.com.br/jobs/29509-qa-pleno",
+  "publishedAt": "2026-08-28",
+  "expiresAt": null
+}

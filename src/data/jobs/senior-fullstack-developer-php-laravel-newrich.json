@@ -1,0 +1,27 @@
+{
+  "id": "senior-fullstack-developer-php-laravel-newrich",
+  "title": "Senior Full Stack Developer - PHP Laravel",
+  "slug": "senior-fullstack-developer-php-laravel-newrich",
+  "company": "Newrich Network",
+  "category": "fullstack",
+  "description": "Vaga remota internacional (remote-first) para desenvolvedor(a) full stack sênior com PHP 8, Laravel 10, React 18, TypeScript e AWS. Tipo de contratação não especificado no anúncio original — confirmar antes de aplicar.",
+  "responsibilities": [
+    "Desenvolver aplicações full stack com Laravel e React",
+    "Trabalhar com infraestrutura AWS"
+  ],
+  "requirements": [
+    "Experiência sênior com PHP 8 e Laravel 10",
+    "Experiência com React 18, TypeScript e AWS"
+  ],
+  "differentials": [
+    "Inglês fluente"
+  ],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Sênior",
+  "location": "Remoto internacional",
+  "salary": null,
+  "applicationUrl": "https://weworkremotely.com/remote-jobs/newrich-network-senior-full-stack-developer-php-laravel",
+  "publishedAt": "2026-08-26",
+  "expiresAt": null
+}

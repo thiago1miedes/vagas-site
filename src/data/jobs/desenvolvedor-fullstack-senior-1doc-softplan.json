@@ -1,0 +1,27 @@
+{
+  "id": "desenvolvedor-fullstack-senior-1doc-softplan",
+  "title": "1DOC — Pessoa Desenvolvedora Full Stack Sênior",
+  "slug": "desenvolvedor-fullstack-senior-1doc-softplan",
+  "company": "Softplan",
+  "category": "fullstack",
+  "description": "Vaga full stack sênior para o produto 1DOC, em empresa grande e consolidada (grupo Softplan), CLT e remota, com processo padrão via Gupy. Stack específica e salário não divulgados na listagem.",
+  "responsibilities": [
+    "Desenvolver e manter funcionalidades de ponta a ponta (front-end e back-end)",
+    "Participar de decisões de arquitetura e revisões de código",
+    "Garantir qualidade, testes e performance das entregas"
+  ],
+  "requirements": [
+    "Experiência sênior com desenvolvimento full stack",
+    "Front-end moderno e back-end com APIs REST",
+    "Bancos de dados e boas práticas de testes"
+  ],
+  "differentials": [],
+  "employmentType": "CLT",
+  "workModel": "Remoto",
+  "seniority": "Sênior",
+  "location": "Brasil (Remoto)",
+  "salary": null,
+  "applicationUrl": "https://softplan.gupy.io/job/eyJqb2JJZCI6MTIwMjE2NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+  "publishedAt": "2026-08-30",
+  "expiresAt": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "desenvolvedor-backend-pleno-aurum",
+  "title": "Pessoa Desenvolvedora Backend Pleno",
+  "slug": "desenvolvedor-backend-pleno-aurum",
+  "company": "Aurum",
+  "category": "backend",
+  "description": "Vaga back-end pleno, CLT efetivo e remota, com candidatura simplificada via Gupy. Stack específica e salário não divulgados na listagem.",
+  "responsibilities": [
+    "Desenvolver e manter serviços e APIs do produto",
+    "Colaborar com o time em decisões técnicas e revisões de código",
+    "Garantir qualidade e cobertura de testes"
+  ],
+  "requirements": [
+    "Experiência pleno com desenvolvimento back-end",
+    "APIs REST e bancos de dados",
+    "Boas práticas de testes e versionamento"
+  ],
+  "differentials": [],
+  "employmentType": "CLT",
+  "workModel": "Remoto",
+  "seniority": "Pleno",
+  "location": "Brasil (Remoto)",
+  "salary": null,
+  "applicationUrl": "https://aurum.gupy.io/job/eyJqb2JJZCI6MTE5NzM3MzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+  "publishedAt": "2026-08-30",
+  "expiresAt": null
+}

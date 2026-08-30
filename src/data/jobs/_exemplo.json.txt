@@ -1,0 +1,30 @@
+{
+  "id": "001",
+  "title": "UX/UI Designer",
+  "slug": "ux-ui-designer-empresa-xyz",
+  "company": "Empresa XYZ",
+  "category": "ux-ui-design",
+  "description": "Descrição completa da vaga: o que a empresa faz, o time, o desafio da posição.",
+  "responsibilities": [
+    "Criar interfaces digitais",
+    "Desenvolver fluxos de usuário",
+    "Trabalhar com times de produto"
+  ],
+  "requirements": [
+    "Experiência com Figma",
+    "Conhecimento em UX",
+    "Experiência com produtos digitais"
+  ],
+  "differentials": [
+    "Inglês",
+    "Experiência com Design Systems"
+  ],
+  "employmentType": "CLT",
+  "workModel": "Remoto",
+  "seniority": "Pleno",
+  "location": "Brasil",
+  "salary": null,
+  "applicationUrl": "https://exemplo.com/vaga",
+  "publishedAt": "2026-08-19",
+  "expiresAt": null
+}

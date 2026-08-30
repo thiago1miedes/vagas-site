@@ -1,0 +1,26 @@
+{
+  "id": "081",
+  "title": "Desenvolvedor Back-End Sênior (AI Engineer)",
+  "slug": "desenvolvedor-backend-senior-ai-engineer-loldesign",
+  "company": "LOLDESIGN Soluções Digitais",
+  "category": "backend",
+  "description": "A LOLDESIGN Soluções Digitais busca um desenvolvedor back-end sênior com foco em IA, remoto no Brasil. Exige Python, Flask e Kafka em nível sênior.",
+  "responsibilities": [
+    "Desenvolver serviços back-end em Python/Flask",
+    "Integrar pipelines de mensageria com Kafka",
+    "Aplicar recursos de IA no back-end"
+  ],
+  "requirements": [
+    "Experiência sênior com Python e Flask",
+    "Experiência com Kafka"
+  ],
+  "differentials": [],
+  "employmentType": "CLT",
+  "workModel": "Remoto",
+  "seniority": "Sênior",
+  "location": "Brasil",
+  "salary": null,
+  "applicationUrl": "https://programathor.com.br/jobs/33685-desenvolvedor-back-end-senior-ai-engineer",
+  "publishedAt": "2026-08-20",
+  "expiresAt": null
+}

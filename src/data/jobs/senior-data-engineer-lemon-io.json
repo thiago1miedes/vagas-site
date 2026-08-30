@@ -1,0 +1,26 @@
+{
+  "id": "074",
+  "title": "Senior Data Engineer",
+  "slug": "senior-data-engineer-lemon-io",
+  "company": "Lemon.io",
+  "category": "backend",
+  "description": "A Lemon.io busca um Senior Data Engineer remoto para LATAM, com stack pesada de dados: Databricks, DBT e Airflow. Exige 5 anos ou mais de experiência específica como Data Engineer.",
+  "responsibilities": [
+    "Construir e manter pipelines de dados",
+    "Trabalhar com Databricks, DBT e Airflow",
+    "Garantir qualidade e governança dos dados"
+  ],
+  "requirements": [
+    "Cinco anos ou mais de experiência como Data Engineer",
+    "Domínio de Databricks, DBT e Airflow"
+  ],
+  "differentials": [],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Sênior",
+  "location": "LATAM (remoto internacional)",
+  "salary": null,
+  "applicationUrl": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
+  "publishedAt": "2026-08-20",
+  "expiresAt": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "281",
+  "title": "Software Engineer",
+  "slug": "software-engineer-infleet",
+  "company": "Infleet",
+  "category": "fullstack",
+  "description": "Vaga remota para Software Engineer trabalhando com Elixir (Phoenix, Broadway, Oban) no back-end e React com TypeScript no front-end. Exige inglês técnico. A stack Elixir é menos comum e pode ser uma barreira para quem nunca trabalhou com ela.",
+  "responsibilities": [
+    "Desenvolver serviços back-end em Elixir com Phoenix, Broadway e Oban",
+    "Construir interfaces em React e TypeScript",
+    "Participar das decisões técnicas do produto"
+  ],
+  "requirements": [
+    "Experiência com desenvolvimento web full stack",
+    "Disposição para trabalhar com Elixir",
+    "React e TypeScript",
+    "Inglês técnico"
+  ],
+  "differentials": [
+    "Experiência prévia com Elixir ou linguagens funcionais"
+  ],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Pleno",
+  "location": "Brasil (remoto)",
+  "salary": null,
+  "applicationUrl": "https://remotive.com/remote/jobs/software-development/software-engineer-3846675",
+  "publishedAt": "2026-08-29",
+  "expiresAt": null
+}

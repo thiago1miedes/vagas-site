@@ -1,0 +1,25 @@
+{
+  "id": "073",
+  "title": "DevOps Engineer — Projeto SaaS em Pré-Lançamento",
+  "slug": "devops-engineer-verlaz",
+  "company": "VERLAZ",
+  "category": "devops-sre",
+  "description": "Vaga de DevOps part-time (cerca de 16h semanais) em um projeto SaaS em pré-lançamento, remota e PJ. A candidatura é simples: basta enviar o currículo por e-mail para selecao@verlaz.com.br. Não é dedicação integral e o salário não foi informado.",
+  "responsibilities": [
+    "Estruturar a infraestrutura do SaaS",
+    "Cuidar de deploy e automação"
+  ],
+  "requirements": [
+    "Experiência com DevOps e cloud",
+    "Disponibilidade de cerca de 16h semanais"
+  ],
+  "differentials": [],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Pleno",
+  "location": "Brasil",
+  "salary": "Não informado (part-time, ~16h/semana)",
+  "applicationUrl": "mailto:selecao@verlaz.com.br",
+  "publishedAt": "2026-08-19",
+  "expiresAt": null
+}

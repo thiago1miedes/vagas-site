@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-white text-ink antialiased;
+    font-feature-settings: 'cv11', 'ss01';
+  }
+
+  /* Um único estilo de foco em todo o site, sempre visível pelo teclado. */
+  :focus-visible {
+    @apply outline-none ring-2 ring-navy ring-offset-2 ring-offset-white;
+  }
+
+  ::selection {
+    @apply bg-navy text-white;
+  }
+}
+
+@layer components {
+  /* Rótulo pequeno em maiúsculas usado acima de títulos e nos cards. */
+  .eyebrow {
+    @apply text-[11px] font-semibold uppercase tracking-eyebrow text-navy;
+  }
+
+  /* Listas de responsabilidades, requisitos e diferenciais. */
+  .job-list {
+    @apply space-y-2.5 text-[15px] leading-relaxed text-slate;
+  }
+
+  .job-list li {
+    @apply relative pl-5;
+  }
+
+  .job-list li::before {
+    content: '';
+    @apply absolute left-0 top-[0.65em] h-1 w-1 rounded-full bg-muted;
+  }
+}

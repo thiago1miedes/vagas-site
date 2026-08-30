@@ -1,0 +1,26 @@
+{
+  "id": "059",
+  "title": "Desenvolvedor Backend Júnior",
+  "slug": "desenvolvedor-backend-junior-kora-crm",
+  "company": "Kora CRM",
+  "category": "backend",
+  "description": "Vaga de entrada em back-end na Kora CRM, remota e PJ, voltada a sustentação e suporte técnico em Node.js. Boa porta de entrada para quem está começando, mas com salário abaixo do mercado e foco em manutenção, não em novas funcionalidades.",
+  "responsibilities": [
+    "Dar sustentação aos sistemas em Node.js",
+    "Atender chamados de suporte técnico",
+    "Corrigir bugs e pequenas melhorias"
+  ],
+  "requirements": [
+    "Conhecimento de Node.js",
+    "Noções de back-end e banco de dados"
+  ],
+  "differentials": [],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Júnior",
+  "location": "Brasil",
+  "salary": "Até R$ 4.000",
+  "applicationUrl": "https://programathor.com.br/jobs/33676-desenvolvedor-backend-junior-sustentacao-e-suporte-tecnico",
+  "publishedAt": "2026-08-19",
+  "expiresAt": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "247",
+  "title": "Pessoa Desenvolvedora Fullstack Júnior",
+  "slug": "desenvolvedora-fullstack-junior-melhor-plano",
+  "company": "Melhor Plano",
+  "category": "fullstack",
+  "description": "A Melhor Plano abre vaga júnior CLT e 100% remota para pessoa desenvolvedora fullstack, com stack TypeScript, React e Node.js. Boa porta de entrada, com pacote completo de benefícios.",
+  "responsibilities": [
+    "Desenvolver e manter funcionalidades no front-end e no back-end",
+    "Trabalhar com TypeScript, React e Node.js no dia a dia",
+    "Participar de revisões de código e cerimônias do time"
+  ],
+  "requirements": [
+    "Conhecimento em TypeScript, React e Node.js",
+    "Noções de versionamento com Git",
+    "Vontade de aprender e evoluir em um time de produto"
+  ],
+  "differentials": [
+    "Experiência prévia com APIs REST",
+    "Familiaridade com testes automatizados"
+  ],
+  "employmentType": "CLT",
+  "workModel": "Remoto",
+  "seniority": "Júnior",
+  "location": "Brasil",
+  "salary": "Até R$ 4.000/mês",
+  "applicationUrl": "https://programathor.com.br/jobs/24900-pessoa-desenvolvedora-fullstack-junior-remoto",
+  "publishedAt": "2026-08-28",
+  "expiresAt": null
+}

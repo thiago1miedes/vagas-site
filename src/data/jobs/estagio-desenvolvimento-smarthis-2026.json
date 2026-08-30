@@ -1,0 +1,27 @@
+{
+  "id": "170",
+  "title": "Programa de Estágio Smarthis 2026 (trilha Desenvolvimento)",
+  "slug": "estagio-desenvolvimento-smarthis-2026",
+  "company": "Smarthis",
+  "category": "backend",
+  "description": "Programa de estágio da Smarthis para 2026, com trilha específica em Desenvolvimento (.NET, Python, PHP, Java, C#), processo estruturado com onboarding e trilha de aprendizado. Modalidade pode variar entre híbrida e remota conforme alocação.",
+  "responsibilities": [
+    "Participar da trilha de aprendizado em desenvolvimento",
+    "Apoiar squads em tarefas de programação sob supervisão"
+  ],
+  "requirements": [
+    "Cursando graduação em TI ou Computação",
+    "Inglês intermediário"
+  ],
+  "differentials": [
+    "Conhecimento em .NET, Python, PHP, Java ou C#"
+  ],
+  "employmentType": "Estágio",
+  "workModel": "Híbrido",
+  "seniority": "Estágio",
+  "location": "Brasil",
+  "salary": null,
+  "applicationUrl": "https://smarthis.gupy.io/jobs/12061857",
+  "publishedAt": "2026-08-24",
+  "expiresAt": null
+}

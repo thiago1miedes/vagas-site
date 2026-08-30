@@ -1,0 +1,28 @@
+{
+  "id": "276",
+  "title": "Desenvolvedor(a) Python Pleno",
+  "slug": "desenvolvedor-python-pleno-databuild",
+  "company": "Databuild",
+  "category": "backend",
+  "description": "Vaga remota PJ para desenvolvedor(a) Python Pleno trabalhando com o framework Tornado. Boa opção para quem já atua no ecossistema Python. O salário está abaixo da média de mercado para o nível.",
+  "responsibilities": [
+    "Desenvolver e manter serviços em Python com Tornado",
+    "Integrar APIs e bases de dados",
+    "Participar das revisões de código do time"
+  ],
+  "requirements": [
+    "Experiência com Python em produção",
+    "Familiaridade com frameworks web (Tornado, Flask ou Django)"
+  ],
+  "differentials": [
+    "Experiência específica com Tornado"
+  ],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Pleno",
+  "location": "Brasil (remoto)",
+  "salary": "Até R$ 4.000",
+  "applicationUrl": "https://programathor.com.br/jobs/31639-desenvolvedor-a-python-pleno",
+  "publishedAt": "2026-08-29",
+  "expiresAt": null
+}

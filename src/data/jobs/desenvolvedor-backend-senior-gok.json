@@ -1,0 +1,25 @@
+{
+  "id": "desenvolvedor-backend-senior-gok",
+  "title": "Desenvolvedor(a) Back-End Sênior",
+  "slug": "desenvolvedor-backend-senior-gok",
+  "company": "GO.K",
+  "category": "backend",
+  "description": "Vaga remota PJ para desenvolvedor(a) back-end sênior com Java, Spring Boot, Kafka, MongoDB e RabbitMQ.",
+  "responsibilities": [
+    "Desenvolver e manter serviços back-end em Java/Spring Boot",
+    "Trabalhar com mensageria Kafka e RabbitMQ"
+  ],
+  "requirements": [
+    "Experiência sênior com Java e Spring Boot",
+    "Experiência com Kafka, MongoDB e RabbitMQ"
+  ],
+  "differentials": [],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Sênior",
+  "location": "Brasil",
+  "salary": null,
+  "applicationUrl": "https://programathor.com.br/jobs/33722-desenvolvedor-a-back-end-senior",
+  "publishedAt": "2026-08-26",
+  "expiresAt": null
+}

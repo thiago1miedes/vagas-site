@@ -1,0 +1,30 @@
+{
+  "id": "159",
+  "title": "QA Automation Engineer",
+  "slug": "qa-automation-engineer-pay-theory",
+  "company": "Pay Theory",
+  "category": "qa-testes",
+  "description": "Pay Theory, startup americana de pagamentos com equipe já no Brasil, busca QA Automation Engineer para contratação PJ, atuando com TypeScript, Playwright/Jest e AWS Lambda.",
+  "responsibilities": [
+    "Desenvolver e manter testes automatizados",
+    "Trabalhar com Playwright e Jest",
+    "Colaborar com times de engenharia em ambiente AWS"
+  ],
+  "requirements": [
+    "3 a 5 anos de experiência em QA automation",
+    "Experiência com TypeScript",
+    "Experiência com Playwright ou Jest",
+    "Inglês fluente (C1)"
+  ],
+  "differentials": [
+    "Experiência com AWS Lambda"
+  ],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Sênior",
+  "location": "Brasil (remoto internacional)",
+  "salary": null,
+  "applicationUrl": "https://programathor.com.br/jobs/33537-qa-automation-engineer",
+  "publishedAt": "2026-08-23",
+  "expiresAt": null
+}

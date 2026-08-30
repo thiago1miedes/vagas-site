@@ -1,0 +1,27 @@
+{
+  "id": "160",
+  "title": "Desenvolvedor Backend Java Sênior",
+  "slug": "desenvolvedor-backend-java-senior-ntt-data",
+  "company": "NTT DATA",
+  "category": "backend",
+  "description": "NTT DATA busca desenvolvedor backend Java sênior, contratação CLT, para atuar com Java, Quarkus e microsserviços em cloud.",
+  "responsibilities": [
+    "Desenvolver microsserviços com Java e Quarkus",
+    "Atuar em ambiente de nuvem",
+    "Colaborar com times de arquitetura e produto"
+  ],
+  "requirements": [
+    "Experiência sênior com Java",
+    "Experiência com Quarkus e microsserviços",
+    "Experiência com ambientes de cloud"
+  ],
+  "differentials": [],
+  "employmentType": "CLT",
+  "workModel": "Remoto",
+  "seniority": "Sênior",
+  "location": "Brasil",
+  "salary": null,
+  "applicationUrl": "https://www.geekhunter.com/pt/ntt-data/jobs/desenvolvedor-backend-java-senior-4",
+  "publishedAt": "2026-08-23",
+  "expiresAt": null
+}
