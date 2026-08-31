@@ -1,0 +1,29 @@
+{
+  "id": "20260831-11",
+  "title": "Analista de QA Júnior | Remoto | PJ",
+  "slug": "analista-de-qa-junior-remoto-pj-mazzatech",
+  "company": "Mazzatech",
+  "category": "qa-testes",
+  "description": "Vaga remota para analista de QA júnior na Mazzatech, com foco em testes funcionais, BDD e automação básica.",
+  "responsibilities": [
+    "Executar testes funcionais e de regressão",
+    "Apoiar automação de testes usando BDD/Cucumber",
+    "Testar APIs com ferramentas como Postman"
+  ],
+  "requirements": [
+    "Conhecimento em BDD (Behavior Driven Development)",
+    "Conhecimento em metodologias ágeis (Scrum/Kanban)",
+    "Conhecimento básico em APIs (testes com Postman)"
+  ],
+  "differentials": [
+    "Conhecimento em desenvolvimento (desejável para automação avançada)"
+  ],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Júnior",
+  "location": "Brasil (Remoto)",
+  "salary": null,
+  "applicationUrl": "https://mazzatech.inhire.app/vagas/bf8e3818-c159-4c60-9d7b-4340f7188ed8/11b4:-analista-de-qa-junior-or-remoto-or-pj",
+  "publishedAt": "2026-08-31",
+  "expiresAt": "2026-10-15"
+}

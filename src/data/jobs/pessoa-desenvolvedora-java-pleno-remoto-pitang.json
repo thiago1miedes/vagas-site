@@ -1,0 +1,30 @@
+{
+  "id": "20260831-08",
+  "title": "Pessoa Desenvolvedora Java Pleno (Remoto)",
+  "slug": "pessoa-desenvolvedora-java-pleno-remoto-pitang",
+  "company": "Pitang",
+  "category": "backend",
+  "description": "Vaga remota para pessoa desenvolvedora Java pleno na Pitang, empresa de desenvolvimento de software e tecnologia com atuação nacional e internacional.",
+  "responsibilities": [
+    "Desenvolver, manter e evoluir aplicações backend em Java",
+    "Implementar e consumir APIs REST",
+    "Apoiar a definição e implementação de arquiteturas baseadas em microsserviços"
+  ],
+  "requirements": [
+    "Experiência prática em desenvolvimento backend com Java",
+    "Experiência com APIs REST e integração de sistemas",
+    "Prática com controle de versão (Git)"
+  ],
+  "differentials": [
+    "Experiência com containers (Docker)",
+    "Conhecimento de bancos de dados relacionais e não relacionais"
+  ],
+  "employmentType": "CLT",
+  "workModel": "Remoto",
+  "seniority": "Pleno",
+  "location": "Brasil (Remoto)",
+  "salary": null,
+  "applicationUrl": "https://pitang.inhire.app/vagas/df505e91-21ac-4f54-a9ae-ef55d2ffd311/pessoa-desenvolvedora-java-pleno-remoto",
+  "publishedAt": "2026-08-31",
+  "expiresAt": "2026-10-15"
+}

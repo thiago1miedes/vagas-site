@@ -1,0 +1,28 @@
+{
+  "id": "20260831-03",
+  "title": "Desenvolvedor(a) Backend Sênior (PHP/Node.js)",
+  "slug": "desenvolvedor-a-backend-senior-php-node-js-casar-com",
+  "company": "Casar.com",
+  "category": "backend",
+  "description": "Casar.com é uma plataforma de sites de casamento personalizados com lista de presentes que vira dinheiro. A vaga é para atuar no time de backend, ajudando a migrar sistemas legados em PHP para uma nova arquitetura em Node.js/NestJS.",
+  "responsibilities": [
+    "Projetar e manter aplicações robustas usando PHP, Node.js e TypeScript",
+    "Desenvolver testes automatizados e colaborar em decisões técnicas",
+    "Dar suporte a sistemas legados em PHP (vários frameworks) migrando gradualmente para Node.js com Nest.js"
+  ],
+  "requirements": [
+    "Sólida experiência com Node.js e TypeScript",
+    "Proficiência na construção de APIs RESTful",
+    "Conhecimento de design patterns, Clean Code e Clean Architecture",
+    "Experiência com testes automatizados/unitários"
+  ],
+  "differentials": [],
+  "employmentType": "CLT",
+  "workModel": "Remoto",
+  "seniority": "Sênior",
+  "location": "Brasil (Remoto)",
+  "salary": null,
+  "applicationUrl": "https://casarcom.gupy.io/jobs/11577504",
+  "publishedAt": "2026-08-31",
+  "expiresAt": "2026-10-15"
+}

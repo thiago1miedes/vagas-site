@@ -1,0 +1,24 @@
+{
+  "id": "20260831-05",
+  "title": "Desenvolvedor(a) Backend Python (AWS Serverless) — Remoto",
+  "slug": "desenvolvedor-a-backend-python-aws-serverless-remoto-brivia",
+  "company": "Brivia",
+  "category": "backend",
+  "description": "Vaga remota para desenvolvedor(a) backend com foco em Python e arquitetura serverless na AWS.",
+  "responsibilities": [
+    "Desenvolver e manter serviços backend em Python usando arquitetura serverless (AWS Lambda e serviços correlatos)"
+  ],
+  "requirements": [
+    "Experiência com Python",
+    "Experiência com AWS Serverless (Lambda, API Gateway, etc.)"
+  ],
+  "differentials": [],
+  "employmentType": "PJ",
+  "workModel": "Remoto",
+  "seniority": "Pleno",
+  "location": "Brasil (Remoto)",
+  "salary": null,
+  "applicationUrl": "https://brivia.inhire.app/vagas/65c80f75-2bb8-4fee-81d2-64be122cc35d/desenvolvedor-backend-python-aws-serverless-remoto",
+  "publishedAt": "2026-08-31",
+  "expiresAt": "2026-10-15"
+}
