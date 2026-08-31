@@ -1,0 +1,29 @@
+{
+  "id": "20260831-15",
+  "title": "Analista SRE Júnior (100% Remoto)",
+  "slug": "analista-sre-junior-100-remoto-pantheon-inc",
+  "company": "Pantheon Inc",
+  "category": "devops-sre",
+  "description": "Vaga CLT 100% remota para analista SRE júnior na Pantheon Inc, com alocação prevista de 5 a 11 meses em projeto de cliente.",
+  "responsibilities": [
+    "Administrar e manter servidores Linux, com foco em estabilidade e segurança do ambiente",
+    "Dar suporte a aplicações rodando em servidores Weblogic e Tomcat",
+    "Monitorar métricas e logs usando ferramentas como Prometheus e Grafana",
+    "Apoiar a gestão de infraestrutura virtualizada com VMware",
+    "Apoiar automação de rotinas operacionais e de configuração com Ansible"
+  ],
+  "requirements": [
+    "Experiência com administração de servidores Linux",
+    "Conhecimento de servidores de aplicação Weblogic e Tomcat",
+    "Pelo menos 1 ano de experiência com práticas de DevOps ou suporte em ambientes com esse modelo operacional"
+  ],
+  "differentials": [],
+  "employmentType": "CLT",
+  "workModel": "Remoto",
+  "seniority": "Júnior",
+  "location": "Brasil (Remoto)",
+  "salary": null,
+  "applicationUrl": "https://pantheon.inhire.app/vagas/ee1b3a93-da2a-4a1b-bc31-3d7822ee0784/-",
+  "publishedAt": "2026-08-31",
+  "expiresAt": "2026-10-15"
+}
